@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAppDriverSample", "WinAppDriverSample\WinAppDriverSample.csproj", "{F97A7E1B-D149-424C-8C3B-807D5FE52586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAppDriverSampleTest", "WinAppDriverSampleTest\WinAppDriverSampleTest.csproj", "{22872ECC-08C6-4CF2-BFB2-D85EB620C1DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F97A7E1B-D149-424C-8C3B-807D5FE52586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97A7E1B-D149-424C-8C3B-807D5FE52586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97A7E1B-D149-424C-8C3B-807D5FE52586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97A7E1B-D149-424C-8C3B-807D5FE52586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22872ECC-08C6-4CF2-BFB2-D85EB620C1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22872ECC-08C6-4CF2-BFB2-D85EB620C1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22872ECC-08C6-4CF2-BFB2-D85EB620C1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22872ECC-08C6-4CF2-BFB2-D85EB620C1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3820E8C5-00B5-41CB-978B-1352C8EAE084}
+	EndGlobalSection
+EndGlobal

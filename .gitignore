@@ -1,0 +1,8 @@
+.vs
+WinAppDriverSample/bin/
+WinAppDriverSample/obj/
+WinAppDriverSampleTest/bin/
+WinAppDriverSampleTest/obj/
+TestResults/
+packages/
+*.user
